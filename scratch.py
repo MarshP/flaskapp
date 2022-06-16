@@ -1,4 +1,4 @@
 msg = "Hello, world."
-pip = 14
-chong = "chongle"
-print(msg, chong)
+pippp = 14
+chg = "chongle"
+print(msg, chg)
